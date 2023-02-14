@@ -170,6 +170,14 @@ p {
     min-height: 250px, auto;
     
 }
+@media screen and (max-width:800px) {
+    .major__box{
+        width: 100%;
+    }
+    .section{
+        padding: 10px;
+    }
+}
 .major__icon{
     /* width: 80px;
     height: 80px;
